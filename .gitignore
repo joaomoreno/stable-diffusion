@@ -1,0 +1,4 @@
+latent_diffusion.egg-info
+outputs
+models/ldm/stable-diffusion-v1/model.ckpt
+**/__pycache__
